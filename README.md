@@ -1,3 +1,3 @@
-# AppProject
+# Xamarin App
 
 Estrutura inicial
