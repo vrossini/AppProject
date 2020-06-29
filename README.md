@@ -1,3 +1,1 @@
 # Xamarin App
-
-Estrutura inicial
